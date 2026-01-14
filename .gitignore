@@ -1,0 +1,5 @@
+config.php
+.htaccess
+database-schema.txt
+.DS_Store
+/uploads/
